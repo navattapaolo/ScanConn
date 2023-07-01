@@ -12,4 +12,5 @@ open the software, click on the option "Environment variables", go to "System va
 Now in the cmd you can type "netscan" to run WDgn.exe.
 
 
-I hope it helps!  -  Paolo Navatta
+ 
+  By Paolo Navatta
