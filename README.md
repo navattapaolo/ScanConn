@@ -7,7 +7,8 @@ There are some steps you have to follow before you start:
 
 2. Create an account or login to VirusTotal, click on your name at the top right and go to "API Key", copy your key and paste it into the file "API-key.txt".
 
-3. (optional) Add the Wdgn.exe's folder (for Windows) or the netstat file (for Linux) as a system PATH.
+3. (optional) Add the Wdgn.exe's folder (for Windows) or the netstat file (for Linux) as a system PATH,so that you can run WDgn in the terminal just by typing netscan.
+
 
  
     By Paolo Navatta
