@@ -1,0 +1,4 @@
+#!/bin/bash
+current_folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
+cd "$current_folder"
+"$current_folder/WDgn.exe"
