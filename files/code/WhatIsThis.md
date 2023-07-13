@@ -1,1 +1,0 @@
-In this folder you can find the python file that you can edit (following the license rules), if you don't need to edit the python file you can delete this folder.
