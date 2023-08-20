@@ -10,7 +10,7 @@ If you are not sure that malware has been removed completely you can run this to
 <br>
 <br>
 <h2 align="center">Tutorial</h2>
-<p align="center">1. Extract the . rar file to a folder or clone the repo, and open your OS's folder</p>
-<p align="center">2. Create an account or login to VirusTotal, click on your name at the top right and go to "API Key", copy your key and paste it into the file "API-key.txt"</p>
-<p align="center">3. Execute the installer file as administrator</p>
-<p align="center">4. Execute the WDgn file or type "netscan" in the CLI</p>
+<p>1. Extract the . rar file to a folder or clone the repo, and open your OS's folder</p>
+<p>2. Create an account or login to VirusTotal, click on your name at the top right and go to "API Key", copy your key and paste it into the file "API-key.txt"</p>
+<p>3. Execute the installer file as administrator</p>
+<p>4. Execute the WDgn file or type "netscan" in the CLI</p>
