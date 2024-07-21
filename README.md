@@ -9,7 +9,7 @@ If you are not sure that malware has been removed completely you can run this to
 </p>
 <br>
 <br>
-<h2 align="center">Tutorial</h2>
+<h2 align="center">Installation</h2>
 <p>1. Extract the . rar file to a folder or clone the repo, and open your OS's folder</p>
 <p>2. Create an account or login to VirusTotal, click on your name at the top right and go to "API Key", copy your key and paste it into the file "API-key.txt"</p>
 <p>3. Execute the installer file as administrator</p>
