@@ -5,7 +5,6 @@
 </p>
 <p align="center">
 ScanConn allows you to scan your active TCP connections with VirusTotal.
-If you are not sure that malware has been removed completely you can run this tool!
 </p>
 <br>
 <br>
