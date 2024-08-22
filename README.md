@@ -1,4 +1,4 @@
-<h1 align="center">WDgn</h1>
+<h1 align="center">ScanConn</h1>
 <p align="center">
 <img alt="License: Apache" src="https://img.shields.io/badge/License%20-%20Apache%20-%20orange">
 <img alt="Static Badge" src="https://img.shields.io/badge/Version%20-%201.0%20-%20black">
