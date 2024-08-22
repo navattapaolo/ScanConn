@@ -4,7 +4,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Version%20-%201.0%20-%20black">
 </p>
 <p align="center">
-ScanConn allows you to scan your active TCP connections with VirusTotal.
+ScanConn allows you to scan your active TCP connections with VirusTotal
 </p>
 <br>
 <br>
